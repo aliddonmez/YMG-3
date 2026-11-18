@@ -1,0 +1,18 @@
+MODELİN TEST SONUÇLARI
+
+16 Kasım 2026 tarihli kayıtlı yerel CPU çalıştırması.
+Rapor, sunum ve notebook aynı çalıştırmanın sonuçlarını kullanır.
+
+İlk katmanda 8 filtre
+Test doğruluğu: %87.08
+Test kaybı: 0.3594
+Eğitim doğruluğu: %88.24
+Eğitim süresi: 9.25 saniye
+
+İlk katmanda 16 filtre
+Test doğruluğu: %87.41
+Test kaybı: 0.3578
+Eğitim doğruluğu: %88.73
+Eğitim süresi: 11.81 saniye
+
+Süre model.fit çağrısını kapsar. Yeniden çalıştırmada sonuçlar değişebilir.
